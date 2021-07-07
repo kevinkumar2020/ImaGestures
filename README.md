@@ -10,6 +10,7 @@
 * Swipe Gesture
 * Pan Gesture
 
+### Application View
 
 ![2](https://user-images.githubusercontent.com/66861727/124796718-1a449c00-df6f-11eb-90bb-9fd50ad35825.PNG)
 
